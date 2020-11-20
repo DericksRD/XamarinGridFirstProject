@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinGridProject.MainPage">
+
+    <Grid RowSpacing="10">
+        <Grid.RowDefinitions >
+            <RowDefinition Height="20" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="370" />
+            <RowDefinition Height="20" />
+            <RowDefinition Height="60" />
+            <RowDefinition Height="60" />
+            <RowDefinition Height="60" />
+        </Grid.RowDefinitions> <!--End of Grid.RowDefinitions-->
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions> <!--End of Grid.ColumnDefinitions-->
+
+        <!--Content of the page-->
+        <Label Text="FEATURED COURSE" Grid.Row="0" Padding="15, 0"/>
+        <Label Text="Stress will always be around. The trick is finding a few stress-busters you can enjoy!"
+               Grid.Row="1" Grid.ColumnSpan="2" Padding="15, -5" Margin="0, 0, 0, -20"></Label>
+        <Image Source="Captura.png" Grid.Row="2" Grid.ColumnSpan="2"/>
+        <Label Text="ON THE GO" Grid.Row="3" Margin="15, 0, 0, 0"/>
+
+        <Label Text="After Work" Grid.Row="4" BackgroundColor="#C7DDE1" 
+               Padding="57 , 20"
+               HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
+        <Label Text="Though Day" Grid.Row="4" Grid.Column="1" BackgroundColor="#3799AB" 
+               TextColor="White" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"
+               Padding="55, 20"/>
+        <Label Text="Good Morning" Grid.Row="5" BackgroundColor="#FD7C1D"
+               TextColor="White" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"
+               Padding="48, 20"/>
+        <Label Text="Sleep" Grid.Row="5" Grid.Column="1" BackgroundColor="#AAAAAA"
+               VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"
+               Padding="75, 20"/>
+        <Label Text="Quick Break" Grid.Row="6" BackgroundColor="#37CADD"
+               HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"
+               Padding="55,20"/>
+        <Label Text="Big event" Grid.Row="6" Grid.Column="1" BackgroundColor="#DD3737"
+               TextColor="White" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"
+               Padding="65, 20"/> <!--End of the content of the page-->
+    </Grid>
+
+</ContentPage>

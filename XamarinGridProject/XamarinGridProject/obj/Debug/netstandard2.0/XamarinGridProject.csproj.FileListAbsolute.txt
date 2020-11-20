@@ -1,0 +1,14 @@
+D:\Documentos\Repos\XamarinGridFirstProject\XamarinGridProject\XamarinGridProject\bin\Debug\netstandard2.0\XamarinGridProject.deps.json
+D:\Documentos\Repos\XamarinGridFirstProject\XamarinGridProject\XamarinGridProject\bin\Debug\netstandard2.0\XamarinGridProject.dll
+D:\Documentos\Repos\XamarinGridFirstProject\XamarinGridProject\XamarinGridProject\bin\Debug\netstandard2.0\ref\XamarinGridProject.dll
+D:\Documentos\Repos\XamarinGridFirstProject\XamarinGridProject\XamarinGridProject\bin\Debug\netstandard2.0\XamarinGridProject.pdb
+D:\Documentos\Repos\XamarinGridFirstProject\XamarinGridProject\XamarinGridProject\obj\Debug\netstandard2.0\XamarinGridProject.csprojAssemblyReference.cache
+D:\Documentos\Repos\XamarinGridFirstProject\XamarinGridProject\XamarinGridProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Documentos\Repos\XamarinGridFirstProject\XamarinGridProject\XamarinGridProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Documentos\Repos\XamarinGridFirstProject\XamarinGridProject\XamarinGridProject\obj\Debug\netstandard2.0\XamarinGridProject.AssemblyInfoInputs.cache
+D:\Documentos\Repos\XamarinGridFirstProject\XamarinGridProject\XamarinGridProject\obj\Debug\netstandard2.0\XamarinGridProject.AssemblyInfo.cs
+D:\Documentos\Repos\XamarinGridFirstProject\XamarinGridProject\XamarinGridProject\obj\Debug\netstandard2.0\XamarinGridProject.csproj.CoreCompileInputs.cache
+D:\Documentos\Repos\XamarinGridFirstProject\XamarinGridProject\XamarinGridProject\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Documentos\Repos\XamarinGridFirstProject\XamarinGridProject\XamarinGridProject\obj\Debug\netstandard2.0\XamarinGridProject.dll
+D:\Documentos\Repos\XamarinGridFirstProject\XamarinGridProject\XamarinGridProject\obj\Debug\netstandard2.0\ref\XamarinGridProject.dll
+D:\Documentos\Repos\XamarinGridFirstProject\XamarinGridProject\XamarinGridProject\obj\Debug\netstandard2.0\XamarinGridProject.pdb
